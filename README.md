@@ -2,8 +2,6 @@
 
 ### I'm a frontend developer focused on fast, stable, user-friendly interfaces, clean architecture, and high engineering standards
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lunarTime" alt="lunarTime" /></a> </p>
-
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1xNcloYwD3FejfzeNsMIxhkKKku6e6niE/view?usp=drive_link](https://drive.google.com/file/d/1xNcloYwD3FejfzeNsMIxhkKKku6e6niE/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
