@@ -1,18 +1,47 @@
-# Hi 👋, I'm Eremeev Nikita
+# I'm Eremeev Nikita
 
 ### I'm a frontend developer focused on fast, stable, user-friendly interfaces, clean architecture, and high engineering standards
 
-- 📫 How to reach me **- email: ena2000.11@gmail.com, telegram: @nicktale**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1xNcloYwD3FejfzeNsMIxhkKKku6e6niE/view?usp=drive_link](https://drive.google.com/file/d/1xNcloYwD3FejfzeNsMIxhkKKku6e6niE/view?usp=drive_link)**
-
-<h3 align="left">Connect with me:</h3>
+<h3>Frontend</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nikita-eremeev-556238283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-eremeev-556238283" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=sass" width="40" height="40" alt="Sass"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="TailwindCSS"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=vue" width="40" height="40" alt="Vue"/>
+  <img src="https://skillicons.dev/icons?i=nuxt" width="40" height="40" alt="Nuxt"/>
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=vuetify" width="40" height="40" alt="Vuetify"/>
+  <img src="https://skillicons.dev/icons?i=webpack" width="40" height="40" alt="Webpack"/>
+  <img src="https://skillicons.dev/icons?i=vitest" width="40" height="40" alt="Vitest"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/vitest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vitest" alt="vitest" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/nuxt" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nuxt" alt="nuxt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuetify" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vuetify" alt="vuetify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/webpack" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=webpack" alt="webpack" width="40" height="40"/> </a></p>
+<h3>Backend</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express"/>
+  <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP"/>
+  <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel"/>
+  <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Nginx"/>
+</p>
+
+<h3>Databases</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite"/>
+</p>
+
+<h3>DevOps / Tools</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman"/>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lunarTime&show_icons=true&locale=en&layout=compact" alt="lunarTime" /></p>
 
